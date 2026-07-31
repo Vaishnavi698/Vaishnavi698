@@ -12,6 +12,6 @@
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=Vaishnavi698&icon=0&)]
+![](https://komarev.com/ghpvc/?username=Vaishnavi698&icon=0&)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
